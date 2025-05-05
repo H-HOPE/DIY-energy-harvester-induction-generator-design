@@ -60,7 +60,7 @@ As shown in Figure 1, three coils were used in the stator, while in this case 12
 The angle, at which the stator coils are mounted one against the other, is different from the angle of the permanent magnets to reduce the cogging effect. As it can be seen in Figure 1, the central coil of the induction generator is in line with the permanent magnet, while the two other ones are not.
 
  <div align="center">
-<img src="/images/Picture1.png" alt="drawing" width="700"/>
+<img src="/images/Picture1.png" alt="drawing" width="500"/>
 </div>
 Figure 1: The DIY radial-type induction generator (left) and its structure without the plastic rotor (right). The components are: A) stator, B) stator coils with ferrite cores, C) induction generator stator iron core, D) permanent magnets, E) pushing rod (providing mechanical torque to the induction generator stator), F) flywheel iron core, G) rotor where mechanical torque is transferred to, with position where permanent magnets are installed, H) bearing and bearing housing, and I) shaft, facilitating the rotation of the induction generator rotor.
 
