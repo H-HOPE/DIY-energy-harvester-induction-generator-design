@@ -67,7 +67,7 @@ Figure 1: The DIY radial-type induction generator (left) and its structure witho
 The permanent magnets are arranged in reverse order, as indicated in Figure 10 above (N/S, S/N, N/S, S/N, etc.). A total of 12 permanent magnets are used on the runner. The magnets and coils used are of the common type and can be purchased on well-known web-based online retail services like Alibaba, Farnell, Mauser, AliExpress, etc.
  
 <div align="center">
-<img src="/images/Picture2.png" alt="drawing" width="700"/>
+<img src="/images/Picture2.jpg" alt="drawing" width="700"/>
 </div>
 Figure 2: The sample DIY H-HOPE induction generator rotor and stator design.
 
