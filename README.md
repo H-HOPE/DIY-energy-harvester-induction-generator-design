@@ -60,14 +60,14 @@ As shown in Figure 1, three coils were used in the stator, while in this case 12
 The angle, at which the stator coils are mounted one against the other, is different from the angle of the permanent magnets to reduce the cogging effect. As it can be seen in Figure 1, the central coil of the induction generator is in line with the permanent magnet, while the two other ones are not.
 
  <div align="center">
-<img src="/images/Picture1.PNG" alt="drawing" width="1472"/>
+<img src="/images/Picture1.png" alt="drawing" width="1472"/>
 </div>
 Figure 1: The DIY radial-type induction generator (left) and its structure without the plastic rotor (right). The components are: A) stator, B) stator coils with ferrite cores, C) induction generator stator iron core, D) permanent magnets, E) pushing rod (providing mechanical torque to the induction generator stator), F) flywheel iron core, G) rotor where mechanical torque is transferred to, with position where permanent magnets are installed, H) bearing and bearing housing, and I) shaft, facilitating the rotation of the induction generator rotor.
 
 The permanent magnets are arranged in reverse order, as indicated in Figure 10 above (N/S, S/N, N/S, S/N, etc.). A total of 12 permanent magnets are used on the runner. The magnets and coils used are of the common type and can be purchased on well-known web-based online retail services like Alibaba, Farnell, Mauser, AliExpress, etc.
  
 <div align="center">
-<img src="/images/Picture2.PNG" alt="drawing" width="1472"/>
+<img src="/images/Picture2.png" alt="drawing" width="1472"/>
 </div>
 Figure 2: The sample DIY H-HOPE induction generator rotor and stator design.
 
@@ -75,7 +75,7 @@ Figure 2: The sample DIY H-HOPE induction generator rotor and stator design.
 The electric power output of induction generators increases with rotational frequency because the amount of mechanical energy converted into electrical energy grows as the rotor spins faster. In such cases, the rate of change of magnetic flux Φ_m increases approximately linearly and so does the induced voltage Ui. For the case of the sample induction generator in Figure 2, the dependence on rotational frequency is clearly shown in Figure 3, where different load and rotation frequencies were considered and compared.
 
 <div align="center">
-<img src="/images/Picture3.PNG" alt="drawing" width="1472"/>
+<img src="/images/Picture3.png" alt="drawing" width="1472"/>
 </div>
 Figure 3: The output power of the DIY electrical generator as a function of the rotational frequency. The sample measurement was performed using different load and rotation frequencies.
 
