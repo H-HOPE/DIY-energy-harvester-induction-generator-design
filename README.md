@@ -55,7 +55,7 @@ The above-introduced principle of operation can be used to better understand the
 
 ## **Design of the H-Hope DIY energy harvester induction generator**
 
-The DIY induction generator is a radial flux type, in which the permanent magnets and coils are mounted in the radial direction (Figure 10). These are its main parts:
+The DIY induction generator is a radial flux type, in which the permanent magnets and coils are mounted in the radial direction (Figure 1). These are its main parts:
  - plastic stator with pre-assigned positions to mount the coils with ferrite cores (A),
  - three coils with ferrite cores, one for each phase (B),
  - induction generator stator iron core installed in the plastic stator (C),
