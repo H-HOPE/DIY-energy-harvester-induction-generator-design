@@ -7,11 +7,11 @@
 The role of the induction generator in the H-Hope energy harvester is to convert the mechanical energy of the cylinder into electric energy. As done for the mechanical design, the principle of operation is first described, then followed by a proposal of design.
 
 ## **Principle of operation of the H-Hope DIY energy harvester induction generator**
-The principle of the operation of the DIY energy harvester induction generator is based on the principles of electromagnetic induction. It is composed of stator (coils, static) and rotor (permanent magnets, rotating). The permanent magnets generate the magnetic field B around them. When the rotor and permanent magnets rotate, so does the magnetic field B. The stator coils are mounted around the rotor, thus the magnetic field B crosses them and because the magnetic field rotates, the stator coils experience changing magnetic field B. Stator coils also experience changing magnetic flux \( \Phi_m \), which can be thought of as being the product of the magnetic field B flowing through the surface of the coil S.
+The principle of the operation of the DIY energy harvester induction generator is based on the principles of electromagnetic induction. It is composed of stator (coils, static) and rotor (permanent magnets, rotating). The permanent magnets generate the magnetic field B around them. When the rotor and permanent magnets rotate, so does the magnetic field B. The stator coils are mounted around the rotor, thus the magnetic field B crosses them and because the magnetic field rotates, the stator coils experience changing magnetic field B. Stator coils also experience changing magnetic flux Φ_m, which can be thought of as being the product of the magnetic field B flowing through the surface of the coil S.
 
 When the rotor rotates, using the principle of electromagnetic induction, a voltage Ui is generated (=induced) on the stator coils.
 
-The Equation (6), explaining the physics behind the voltage Ui induction process is a well-known Farraday (induction) equation:
+The Equation (1), explaining the physics behind the voltage Ui induction process is a well-known Farraday (induction) equation:
 
 $$
 U_i = -\frac{\partial \Phi_m}{\partial t} \quad \text{(Eq. 1)}
